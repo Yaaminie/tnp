@@ -95,6 +95,7 @@ const PlacementTeam = [
     name: "Sai Yaminiee Ganda",
     email: "cs19b1022@iiitr.ac.in",
     phone: "+91 7779021200",
+    image: "https://iiitr.ac.in/assets/images/prteam/yaaminie.webp" 
   },
   {
     name: "Dosawada Rohith",
